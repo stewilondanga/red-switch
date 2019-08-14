@@ -99,7 +99,7 @@ label[for="red"]::after {
 }
 
 /* Toggled State */
-/*input[type=checkbox]:checked ~ .splatter {
+input[type=checkbox]:checked~.splatter {
   transition: all 0.3s cubic-bezier(0.38, 0.23, 0.75, 1.5);
   visibility: visible;
   color: white;
