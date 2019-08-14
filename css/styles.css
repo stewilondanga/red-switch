@@ -83,9 +83,9 @@ label[for="red"] {
   background: #000;
 }
 
-/*label[for="red"]::after {
+label[for="red"]::after {
   -webkit-transform: rotate(-20deg);
-          transform: rotate(-20deg);
+  transform: rotate(-20deg);
 }
 
 /* Default State */
