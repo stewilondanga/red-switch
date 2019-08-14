@@ -32,13 +32,13 @@ html {
   margin: 0;
 }
 
-/*input[type=checkbox] {
+input[type=checkbox] {
   position: absolute;
   top: -9999px;
   left: -9999px;
 }
 
-main {
+/*main {
   display: flex;
   align-items: center;
   height: 100vh;
