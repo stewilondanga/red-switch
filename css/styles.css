@@ -53,14 +53,15 @@ label, .splatter {
   height: 100%;
 }
 
-/*label {
+label {
   position: relative;
   cursor: pointer;
   font-size: 6rem;
   text-align: center;
   cursor: pointer;
 }
-label::after {
+
+/*label::after {
   content: '👆';
   position: absolute;
   bottom: 10%;
