@@ -74,12 +74,12 @@ label::after {
   transform-origin: 0% 0%;
 }
 
-/*label:hover::after {
+label:hover::after {
   transition: all 0.3 ease;
   opacity: 0.5;
 }
 
-label[for="red"] {
+/*label[for="red"] {
   background: #000;
 }
 label[for="red"]::after {
