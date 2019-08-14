@@ -106,11 +106,11 @@ input[type=checkbox]:checked~.splatter {
 }
 
 /* Toggled State */
-/*input[type=checkbox]#red:checked ~ div#paint-red {
+input[type=checkbox]#red:checked~div#paint-red {
   background: red;
 }
 
-@media all and (max-width: 700px) {
+/*@media all and (max-width: 700px) {
   label {
     font-size: 4rem;
   }
