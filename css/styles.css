@@ -110,14 +110,15 @@ input[type=checkbox]#red:checked~div#paint-red {
   background: red;
 }
 
-/*@media all and (max-width: 700px) {
+@media all and (max-width: 700px) {
   label {
     font-size: 4rem;
   }
+
   label::after {
     font-size: 4rem;
     -webkit-transform-origin: 0% 0%;
-            transform-origin: 0% 0%;
+    transform-origin: 0% 0%;
   }
 
   .splatter {
@@ -125,7 +126,7 @@ input[type=checkbox]#red:checked~div#paint-red {
   }
 }
 
-
+/*
 .containers {
   width: 520px;
   margin: 20px auto;
