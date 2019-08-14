@@ -44,7 +44,7 @@ main {
   height: 100vh;
 }
 
-/*label, .splatter {
+label, .splatter {
   flex: 0 0 50%;
   display: flex;
   align-items: center;
@@ -53,7 +53,7 @@ main {
   height: 100%;
 }
 
-label {
+/*label {
   position: relative;
   cursor: pointer;
   font-size: 6rem;
